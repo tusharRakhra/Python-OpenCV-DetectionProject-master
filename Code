@@ -9,14 +9,7 @@
 # The raw cascades were originally made by:
 #   Eye Cascade: Stump-based 20x20 by Shameem Hameed
 #   Face Cascade: Discrete adaboost frontal face detector by Rainer Lienhart
-#
-# I am contributing this project to the open source because I want to provide value to my peers.
-#
-# Basically, what the source code does is, first it asks the user to what type of detection 
-# would the user like to perform? After that, the user is prompted for the input type i.e. either
-# a jpg file, mp4 file or the user's camera. Using the haarcascades, the classifiers are trained
-# and coded. Detailed description of Source Code is done below:
-# 
+
 # RoadMap of training the model through a jpg file:
 #      1. Import Libraries
 #      2. Create a classifier

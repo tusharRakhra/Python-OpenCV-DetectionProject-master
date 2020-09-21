@@ -1,1 +1,1 @@
-# Face-Detection-Python
+# OpenCV-DetectionProject-python
